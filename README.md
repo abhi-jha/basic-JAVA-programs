@@ -1,2 +1,2 @@
-# Solution to hackerrank basic-JAVA-practice-programs
+# Solution to hackerrank's JAVA-practice-programs
 Java language programs for hackerrank practice problems
